@@ -1,0 +1,6 @@
+{
+  "name": "Atmosphere Pro - Live Weather Dashboard",
+  "description": "A modern, asynchronous weather dashboard with coordinate autocomplete, live atmospheric telemetry, 7-day forecast, and metric/imperial toggling.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
